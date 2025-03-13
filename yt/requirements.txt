@@ -1,0 +1,5 @@
+crewai
+crewai-tools
+load_dotenv
+langchain-groq
+pydantic==2.10.0
